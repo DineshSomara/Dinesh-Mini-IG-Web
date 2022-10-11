@@ -36,3 +36,296 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.navbar-logo {
+    width: 64px;
+    height: 43px;
+}
+
+#navItem1 {
+    color: white;
+    font-family: "Roboto";
+}
+
+#navItem2 {
+    color: white;
+    font-family: "Roboto";
+}
+
+#navItem3 {
+    color: white;
+    font-family: "Roboto";
+}
+
+#navItem4 {
+    color: white;
+    font-family: "Roboto";
+}
+
+#navItem5 {
+    color: white;
+    font-family: "Roboto";
+}
+
+#navItem6 {
+    color: white;
+    font-family: "Roboto";
+}
+body{
+  background-color: #191a1d;
+  font-family: "Roboto";
+}
+
+
+.homepage-heading {
+    color: white;
+    font-size: 55px;
+    margin-top: 90px;
+}
+
+.homepage-paragraph {
+    color: white;
+    font-size: 21px;
+}
+
+.innovation-span-style {
+    color: #33cccc;
+}
+
+.homepage-card {
+    margin: 13px;
+    padding: 10px;
+    background-color: #323f4b;
+    border-radius: 15px;
+    margin: 0px;
+    width: 100%;
+}
+
+.homepage-card-heading {
+  color: white;
+  padding: 0px;
+  font-size: 60px;
+  font-style: italic;
+}
+
+.homepage-card-paragraph {
+    color: white;
+    font-size: 18px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    font-style: italic;
+}
+
+.startup-span-style {
+    color: #ffff66;
+}
+
+.innovation-garage-image {
+  height: 735px;
+  width: 358px;
+  margin-right: 80px;
+}
+
+.firefly-image {
+  height: 170px;
+  width: 506px;
+  margin: auto;
+}
+
+.Events-image {
+  height: 585px;
+  width: 581px;
+}
+
+
+.homepage-card-info-section-2 {
+    margin-left: 200px;
+}
+
+.custom-button {
+    color: white;
+    font-weight: 600;
+    font-size: 19px;
+    background-color: #33cccc;
+    padding: 10px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-color: #323f4b;
+    text-decoration: none;
+}
+
+
+.button-anchor {
+    color: white;
+    text-decoration: none;
+}
+.button-anchor:hover {
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.startup-page-container {
+    font-family: "Roboto";
+    background-color: #3e4c59;
+}
+
+
+.startup-page-heading {
+    color: #33cccc;
+    margin-top: 90px;
+} 
+
+.nav-info-style {
+    font-weight: 700;
+    font-family: "Roboto";
+    font-size: 18px;
+}
+
+.start-up-card-img{
+    height: 100%;
+}
+
+.card-img-top {
+    -ms-flex-negative: 0;
+    flex-shrink: 4;
+    width: 100%;
+    height: 300px;
+}
+
+
+ .startup-heading {
+    font-size: 50px;
+    font-weight: 900;
+    font-family: "Roboto";
+}
+
+.startup-image {
+    width: 50%;
+}
+
+.startup-skylark-logo {
+    height: 290px;
+    width: 100%;
+    border-radius: 20px;
+}
+
+.startup-cusmat-logo {
+    height: 290px;
+    width: 100%;
+    border-radius: 20px;
+}
+
+.startup-gbit-logo {
+    width: 100%;
+    height: 290px;
+    border-radius: 20px;
+}
+
+.startup-name {
+    font-size: 26px;
+    color: white;
+}
+
+.startup-ig-card {
+    text-align: center;
+    border-radius: 20px;
+    margin: 20px;
+    background-color: #323f4b;
+}
+
+.startup-game-card {
+    background-color: #323f4b;
+    border-radius: 20px;
+}
+
+.startup-card {
+    background-color: #323f4b;
+    color: white;
+}
+
+.projects-page-container {
+    background-color: #191a1d;
+    font-family: "Roboto";
+    margin-top: 90px;
+}
+
+.projects-heading {
+  color: #33cccc;
+}
+
+.project-description {
+    color: white;
+}
+
+.project-status{
+  color: white;
+}
+
+.game-image {
+    width: 100%;
+    height: 489px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+
+.card-title {
+    margin-bottom: 0.75rem;
+    color: #33cccc;
+}
+
+.game-name {
+    color: white;
+    font-size: 26px;
+}
+
+.podcasts-page-container {
+    font-family: "Roboto";
+    background-color: #323f4b;
+}
+
+.podcast-main-heading {
+    color: white;
+}
+
+.contact-us-container {
+    background-color: #001c32;
+    font-family: "Roboto";
+}
+
+.icon-1 {
+    color: #5a7184;
+    font-size: 18px;
+    margin: 5px;
+}
+
+.main-heading-1 {
+    color: #cced00;
+    font-size: 30px;
+}
+
+.main-info {
+    color: #5a7184;
+    font-size: 18px;
+}
+
+.footer-container {
+    background-color: #0d2436;
+    font-family: "Roboto";
+}
+
+.ig-logo {
+    height: 150px;
+}
+
+.special-image {
+    color: #33cccc;
+    display: inline;
+    font-size: 40px;
+}
+
